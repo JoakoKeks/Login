@@ -1,0 +1,24 @@
+.logo {
+    width: 25%; /* Esto hará que la imagen sea 1/4 de su tamaño original */
+    background-color: black; /* Esto hará que el fondo sea negro */
+    padding: 10px; /* Esto añadirá un poco de espacio alrededor de la imagen */
+    margin-bottom: 50px; /* Ajusta este valor según tus necesidades */
+
+}
+
+.vh-100 {
+    display: flex;
+    align-items: center; /* Esto centrará verticalmente el contenido */
+    justify-content: center; /* Esto centrará horizontalmente el contenido */
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-text {
+    margin-left: 10px; /* Esto añadirá un poco de espacio a la izquierda del texto */
+    font-size: 2em; /* Ajusta este valor según tus necesidades */
+    
+}
